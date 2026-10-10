@@ -1,0 +1,15 @@
+Return-Path: <noreply@vt.edu>
+Authentication-Results: mx.example.edu; spf=pass smtp.mailfrom=vt.edu; dkim=pass header.d=vt.edu; dmarc=pass header.from=vt.edu
+From: "Career and Professional Development" <noreply@vt.edu>
+To: student@example.edu
+Subject: Reminder: Fall Career Fair on Thursday
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+
+<html><body>
+<p>Hi Amani,</p>
+<p>The Fall Career Fair is this Thursday from 10am to 3pm in Squires Student Center. Over 150 employers will be attending.</p>
+<p>Review the employer list and prep tips here: <a href="https://career.vt.edu/events">career.vt.edu/events</a></p>
+<p>See you there!</p>
+<p>Career and Professional Development</p>
+</body></html>

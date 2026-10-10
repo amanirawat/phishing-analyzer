@@ -1,0 +1,7 @@
+# Core analyzer uses only the Python standard library.
+# Web interface
+streamlit>=1.35
+# Optional: AI explanations
+anthropic>=0.40
+# Tests
+pytest>=8.0
